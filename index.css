@@ -1,0 +1,20 @@
+ul{
+    border-left: 5px solid green;
+    border-top: 5px solid blue;
+    border-right: 5px solid darkred;
+    border-bottom: 5px solid yellow;
+    padding:20px;
+    width: 400px;
+    margin:20px;
+}
+
+#slideshow{
+    margin-left: 200px;
+    width: 500px;
+    height: 400px;
+    margin-top:50px;
+}
+#slideshow img {
+    height: 100%;
+    width:100%;
+}
